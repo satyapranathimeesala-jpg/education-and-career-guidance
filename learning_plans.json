@@ -1,0 +1,128 @@
+{
+  "learning_plans": [
+    {
+      "id": "LP001",
+      "career": "Frontend Developer",
+      "duration": "30 days",
+      "goal": "Build foundational web development skills",
+      "weeks": [
+        {
+          "week": 1,
+          "focus": "HTML",
+          "tasks": [
+            "Learn HTML structure",
+            "Create forms",
+            "Build a basic webpage"
+          ]
+        },
+        {
+          "week": 2,
+          "focus": "CSS",
+          "tasks": [
+            "Learn selectors",
+            "Learn Flexbox",
+            "Learn responsive design"
+          ]
+        },
+        {
+          "week": 3,
+          "focus": "JavaScript",
+          "tasks": [
+            "Learn variables",
+            "Learn functions",
+            "Practice DOM manipulation"
+          ]
+        },
+        {
+          "week": 4,
+          "focus": "Mini Project",
+          "tasks": [
+            "Build a responsive portfolio website",
+            "Publish the project",
+            "Document the project"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "LP002",
+      "career": "Data Analyst",
+      "duration": "60 days",
+      "goal": "Develop practical data analysis skills",
+      "weeks": [
+        {
+          "week": 1,
+          "focus": "Excel",
+          "tasks": [
+            "Learn formulas",
+            "Practice sorting and filtering",
+            "Create basic charts"
+          ]
+        },
+        {
+          "week": 2,
+          "focus": "Advanced Excel",
+          "tasks": [
+            "Pivot tables",
+            "Lookup functions",
+            "Data cleaning"
+          ]
+        },
+        {
+          "week": 3,
+          "focus": "SQL",
+          "tasks": [
+            "SELECT queries",
+            "Filtering",
+            "Joins"
+          ]
+        },
+        {
+          "week": 4,
+          "focus": "SQL Practice",
+          "tasks": [
+            "Aggregate functions",
+            "Subqueries",
+            "Database exercises"
+          ]
+        },
+        {
+          "week": 5,
+          "focus": "Python",
+          "tasks": [
+            "Python basics",
+            "Lists and dictionaries",
+            "Data processing"
+          ]
+        },
+        {
+          "week": 6,
+          "focus": "Data Visualization",
+          "tasks": [
+            "Create charts",
+            "Analyze trends",
+            "Build a simple dashboard"
+          ]
+        },
+        {
+          "week": 7,
+          "focus": "Project",
+          "tasks": [
+            "Choose a dataset",
+            "Clean the dataset",
+            "Analyze the data"
+          ]
+        },
+        {
+          "week": 8,
+          "focus": "Portfolio",
+          "tasks": [
+            "Complete dashboard",
+            "Write project explanation",
+            "Add project to portfolio"
+          ]
+        }
+      ]
+    }
+  ]
+}
