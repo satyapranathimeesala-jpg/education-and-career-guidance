@@ -1,0 +1,92 @@
+{
+  "courses": [
+    {
+      "id": "CR001",
+      "title": "HTML and CSS Fundamentals",
+      "skill": "HTML/CSS",
+      "level": "Beginner",
+      "duration": "2 weeks",
+      "hours_per_week": 4,
+      "cost": "Free",
+      "format": "Online",
+      "outcome": "Build responsive web pages"
+    },
+    {
+      "id": "CR002",
+      "title": "JavaScript Fundamentals",
+      "skill": "JavaScript",
+      "level": "Beginner",
+      "duration": "4 weeks",
+      "hours_per_week": 5,
+      "cost": "Free",
+      "format": "Online",
+      "outcome": "Create interactive web applications"
+    },
+    {
+      "id": "CR003",
+      "title": "React Fundamentals",
+      "skill": "React",
+      "level": "Intermediate",
+      "duration": "4 weeks",
+      "hours_per_week": 6,
+      "cost": "Low Cost",
+      "format": "Online",
+      "outcome": "Build component-based web applications"
+    },
+    {
+      "id": "CR004",
+      "title": "SQL for Data Analysis",
+      "skill": "SQL",
+      "level": "Beginner",
+      "duration": "3 weeks",
+      "hours_per_week": 4,
+      "cost": "Free",
+      "format": "Online",
+      "outcome": "Query and analyze relational data"
+    },
+    {
+      "id": "CR005",
+      "title": "Python for Beginners",
+      "skill": "Python",
+      "level": "Beginner",
+      "duration": "5 weeks",
+      "hours_per_week": 5,
+      "cost": "Free",
+      "format": "Online",
+      "outcome": "Write Python programs and solve programming problems"
+    },
+    {
+      "id": "CR006",
+      "title": "Data Visualization Fundamentals",
+      "skill": "Data Visualization",
+      "level": "Beginner",
+      "duration": "3 weeks",
+      "hours_per_week": 4,
+      "cost": "Low Cost",
+      "format": "Online",
+      "outcome": "Create meaningful charts and dashboards"
+    },
+    {
+      "id": "CR007",
+      "title": "AWS Cloud Fundamentals",
+      "skill": "Cloud Fundamentals",
+      "level": "Beginner",
+      "duration": "4 weeks",
+      "hours_per_week": 5,
+      "cost": "Free",
+      "format": "Online",
+      "outcome": "Understand basic cloud services and deployment"
+    },
+    {
+      "id": "CR008",
+      "title": "Figma UI/UX Fundamentals",
+      "skill": "UI/UX Design",
+      "level": "Beginner",
+      "duration": "3 weeks",
+      "hours_per_week": 4,
+      "cost": "Free",
+      "format": "Online",
+      "outcome": "Create wireframes and interactive prototypes"
+    }
+  ]
+}
