@@ -1,0 +1,56 @@
+{
+  "personas": [
+    {
+      "id": "P001",
+      "name": "Final-Year College Student",
+      "description": "A woman completing college and preparing to enter the workforce.",
+      "common_challenges": [
+        "Limited professional experience",
+        "Uncertainty about career choice",
+        "Limited interview experience",
+        "Need for practical projects"
+      ],
+      "available_time": "10-15 hours per week",
+      "priority": "Job readiness"
+    },
+    {
+      "id": "P002",
+      "name": "Career Break Returner",
+      "description": "A woman returning to work after taking a career break.",
+      "common_challenges": [
+        "Outdated technical skills",
+        "Confidence gap",
+        "Resume gap",
+        "Limited recent work experience"
+      ],
+      "available_time": "5-10 hours per week",
+      "priority": "Skill refresh and confidence"
+    },
+    {
+      "id": "P003",
+      "name": "Technology Career Switcher",
+      "description": "A woman moving from another field into technology.",
+      "common_challenges": [
+        "Lack of technical background",
+        "Uncertainty about required skills",
+        "Limited technology projects",
+        "Need for a structured learning path"
+      ],
+      "available_time": "8-12 hours per week",
+      "priority": "Transferable skills and technical upskilling"
+    },
+    {
+      "id": "P004",
+      "name": "Early-Career Professional",
+      "description": "A woman with some work experience who wants career progression.",
+      "common_challenges": [
+        "Skill gaps",
+        "Limited leadership experience",
+        "Need for specialization",
+        "Difficulty identifying the next career step"
+      ],
+      "available_time": "5-8 hours per week",
+      "priority": "Career progression"
+    }
+  ]
+}
