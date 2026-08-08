@@ -1,0 +1,128 @@
+{
+  "skills": [
+    {
+      "id": "S001",
+      "name": "Communication",
+      "category": "Soft Skill",
+      "transferable_to": [
+        "Software Development",
+        "Data Analysis",
+        "Project Management",
+        "Leadership",
+        "Customer Support"
+      ]
+    },
+    {
+      "id": "S002",
+      "name": "Problem Solving",
+      "category": "Core Skill",
+      "transferable_to": [
+        "Programming",
+        "Data Analysis",
+        "Cybersecurity",
+        "Cloud Computing"
+      ]
+    },
+    {
+      "id": "S003",
+      "name": "Teamwork",
+      "category": "Soft Skill",
+      "transferable_to": [
+        "Software Development",
+        "Project Management",
+        "Leadership"
+      ]
+    },
+    {
+      "id": "S004",
+      "name": "Leadership",
+      "category": "Soft Skill",
+      "transferable_to": [
+        "Project Management",
+        "Team Lead",
+        "Product Management"
+      ]
+    },
+    {
+      "id": "S005",
+      "name": "Time Management",
+      "category": "Soft Skill",
+      "transferable_to": [
+        "Project Management",
+        "Software Development",
+        "Data Analysis"
+      ]
+    },
+    {
+      "id": "S006",
+      "name": "Excel",
+      "category": "Technical Skill",
+      "transferable_to": [
+        "Data Analysis",
+        "Business Analysis",
+        "Finance"
+      ]
+    },
+    {
+      "id": "S007",
+      "name": "Python",
+      "category": "Technical Skill",
+      "transferable_to": [
+        "Data Analysis",
+        "Software Development",
+        "AI and Machine Learning"
+      ]
+    },
+    {
+      "id": "S008",
+      "name": "HTML",
+      "category": "Technical Skill",
+      "transferable_to": [
+        "Frontend Development",
+        "Web Development",
+        "UI Development"
+      ]
+    },
+    {
+      "id": "S009",
+      "name": "CSS",
+      "category": "Technical Skill",
+      "transferable_to": [
+        "Frontend Development",
+        "Web Development",
+        "UI Development"
+      ]
+    },
+    {
+      "id": "S010",
+      "name": "JavaScript",
+      "category": "Technical Skill",
+      "transferable_to": [
+        "Frontend Development",
+        "Full Stack Development",
+        "Web Development"
+      ]
+    },
+    {
+      "id": "S011",
+      "name": "SQL",
+      "category": "Technical Skill",
+      "transferable_to": [
+        "Data Analysis",
+        "Backend Development",
+        "Database Administration"
+      ]
+    },
+    {
+      "id": "S012",
+      "name": "Presentation",
+      "category": "Soft Skill",
+      "transferable_to": [
+        "Leadership",
+        "Project Management",
+        "Consulting",
+        "Sales"
+      ]
+    }
+  ]
+}
