@@ -1,0 +1,49 @@
+{
+  "weekly_schedules": [
+    {
+      "available_hours": "3 hours",
+      "schedule": {
+        "Monday": "30 minutes - Learn",
+        "Wednesday": "30 minutes - Practice",
+        "Friday": "30 minutes - Learn",
+        "Saturday": "1 hour - Project",
+        "Sunday": "30 minutes - Review"
+      }
+    },
+    {
+      "available_hours": "6 hours",
+      "schedule": {
+        "Monday": "1 hour - Learn",
+        "Tuesday": "1 hour - Practice",
+        "Thursday": "1 hour - Learn",
+        "Friday": "1 hour - Practice",
+        "Saturday": "1.5 hours - Project",
+        "Sunday": "30 minutes - Review"
+      }
+    },
+    {
+      "available_hours": "10 hours",
+      "schedule": {
+        "Monday": "1.5 hours - Learn",
+        "Tuesday": "1.5 hours - Practice",
+        "Wednesday": "1 hour - Learn",
+        "Thursday": "1.5 hours - Practice",
+        "Friday": "1 hour - Revision",
+        "Saturday": "2 hours - Project",
+        "Sunday": "1.5 hours - Project and Review"
+      }
+    },
+    {
+      "available_hours": "15 hours",
+      "schedule": {
+        "Monday": "2 hours - Learn",
+        "Tuesday": "2 hours - Practice",
+        "Wednesday": "2 hours - Learn",
+        "Thursday": "2 hours - Practice",
+        "Friday": "2 hours - Revision",
+        "Saturday": "3 hours - Project",
+        "Sunday": "2 hours - Review and Interview Practice"
+      }
+    }
+  ]
+}
