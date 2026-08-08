@@ -1,0 +1,135 @@
+{
+  "careers": [
+    {
+      "id": "C001",
+      "title": "Frontend Developer",
+      "category": "Technology",
+      "experience_level": "Entry Level",
+      "required_skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Git",
+        "Responsive Design"
+      ],
+      "preferred_skills": [
+        "TypeScript",
+        "REST APIs",
+        "UI/UX basics"
+      ],
+      "typical_tasks": [
+        "Build web pages",
+        "Create responsive interfaces",
+        "Connect frontend applications to APIs",
+        "Fix UI bugs"
+      ],
+      "proof_of_learning": "Responsive portfolio website",
+      "interview_task": "Build a small React application"
+    },
+    {
+      "id": "C002",
+      "title": "Data Analyst",
+      "category": "Technology",
+      "experience_level": "Entry Level",
+      "required_skills": [
+        "Excel",
+        "SQL",
+        "Python",
+        "Data Visualization",
+        "Statistics"
+      ],
+      "preferred_skills": [
+        "Power BI",
+        "Tableau",
+        "Business Analysis"
+      ],
+      "typical_tasks": [
+        "Clean datasets",
+        "Analyze business data",
+        "Create reports",
+        "Build dashboards"
+      ],
+      "proof_of_learning": "Interactive data analysis dashboard",
+      "interview_task": "Analyze a sample business dataset"
+    },
+    {
+      "id": "C003",
+      "title": "Python Developer",
+      "category": "Technology",
+      "experience_level": "Entry Level",
+      "required_skills": [
+        "Python",
+        "Object-Oriented Programming",
+        "SQL",
+        "Git",
+        "Problem Solving"
+      ],
+      "preferred_skills": [
+        "Flask",
+        "Django",
+        "REST APIs"
+      ],
+      "typical_tasks": [
+        "Develop Python applications",
+        "Create APIs",
+        "Work with databases",
+        "Debug applications"
+      ],
+      "proof_of_learning": "Python-based web application",
+      "interview_task": "Create a simple REST API"
+    },
+    {
+      "id": "C004",
+      "title": "UI/UX Designer",
+      "category": "Design",
+      "experience_level": "Entry Level",
+      "required_skills": [
+        "UI Design",
+        "UX Research",
+        "Wireframing",
+        "Prototyping",
+        "Figma"
+      ],
+      "preferred_skills": [
+        "Design Systems",
+        "Usability Testing",
+        "Accessibility"
+      ],
+      "typical_tasks": [
+        "Create wireframes",
+        "Design interfaces",
+        "Conduct user research",
+        "Create prototypes"
+      ],
+      "proof_of_learning": "Mobile application design case study",
+      "interview_task": "Redesign an existing application interface"
+    },
+    {
+      "id": "C005",
+      "title": "Cloud Support Associate",
+      "category": "Technology",
+      "experience_level": "Entry Level",
+      "required_skills": [
+        "Cloud Fundamentals",
+        "Networking",
+        "Linux",
+        "Security Basics",
+        "Problem Solving"
+      ],
+      "preferred_skills": [
+        "AWS",
+        "Docker",
+        "Python"
+      ],
+      "typical_tasks": [
+        "Monitor cloud resources",
+        "Troubleshoot issues",
+        "Manage basic cloud services",
+        "Assist users"
+      ],
+      "proof_of_learning": "Cloud deployment project",
+      "interview_task": "Deploy a simple web application"
+    }
+  ]
+}
